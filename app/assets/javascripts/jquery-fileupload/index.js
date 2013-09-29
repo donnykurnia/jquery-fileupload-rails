@@ -10,5 +10,4 @@
 //=require jquery-fileupload/jquery.fileupload-video
 //=require jquery-fileupload/jquery.fileupload-validate
 //=require jquery-fileupload/jquery.fileupload-ui
-//=require jquery-fileupload/jquery.fileupload-jquery-ui
 //=require jquery-fileupload/locale
